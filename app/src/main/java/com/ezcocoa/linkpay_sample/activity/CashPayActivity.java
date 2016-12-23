@@ -12,7 +12,6 @@ import android.widget.EditText;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
-import com.ezcocoa.linkpay_sample.BuildConfig;
 import com.ezcocoa.linkpay_sample.LinkpayConstants;
 import com.ezcocoa.linkpay_sample.R;
 import com.ezcocoa.linkpay_sample.ez.EZAlertDialog;
