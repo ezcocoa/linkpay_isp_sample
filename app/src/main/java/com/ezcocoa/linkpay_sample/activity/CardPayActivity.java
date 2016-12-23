@@ -64,6 +64,15 @@ public class CardPayActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_card_pay);
         ButterKnife.bind(this);
+
+        if (BuildConfig.DEBUG) {
+            _storeNumberEt.setText("1168143939");
+            _storeRootCatIdEt.setText("90100546");
+            _storeCatIdEt.setText("90100546");
+            _orderSupplyEt.setText("1000");
+            _orderVatEt.setText("4");
+            _orgInstallmentEt.setText("0");
+        }
     }
 
     @Override
