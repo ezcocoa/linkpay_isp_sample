@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">링크페이 ISP</string>
+    <string name="action_settings">설정</string>
+    <string name="install_linkpay_app">링크페이앱을 설치해주세요.</string>
+    <string name="approved">승인되었습니다.</string>
+    <string name="canceled">취소되었습니다.</string>
+    <string name="failed">실패되었습니다.</string>
+    <string name="store_no">사업자번호</string>
+</resources>
